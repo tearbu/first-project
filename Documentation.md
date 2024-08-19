@@ -374,7 +374,7 @@ Make sure to create DNS records for both your root domain and subdomain. This in
 
 - Run **`sudo certbot --nginx`** to request an SSL/TLS certificate
 
-- Verify the website's SSL using the OpenSSL utility with the command: **`openssl s_client -connect jaykaneki.cloud:443`**
+- Verify the website's SSL using the OpenSSL utility with the command: **`openssl s_client -connect arafdevops.work`**
 
 ![images](images/image-52.png)
 
